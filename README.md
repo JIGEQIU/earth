@@ -35,6 +35,8 @@ weather layer located at `data/weather/current`.
 
 *For Ubuntu, Mint, and elementary OS, use `nodejs` instead of `node` instead due to a [naming conflict](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#ubuntu-mint-elementary-os).
 
+Screenshot
+
 getting map data
 ----------------
 
